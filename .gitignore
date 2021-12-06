@@ -1,0 +1,6 @@
+*.npy
+*.pth
+*.jpg
+*.png
+/log
+/timm
